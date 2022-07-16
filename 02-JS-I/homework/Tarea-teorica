@@ -1,0 +1,12 @@
+1. Explicaciones de los siguientes conceptos
+
+ * Variables 
+  Una variable es como una caja donde se guarda cualquier cosa ("Dato") para poder buscarlo de forma rápida.
+ * Strings
+  Los Strings son como palabras ("Cadenas de cualquier caracter")
+ * Funciones (argumentos, `return`)
+    Son acciones ("Son acciones que agrupan código, a la que le podemos pasar o no argumentos y pueden devolver (return) o no un valor);
+ * Declaraciones `if`
+    El if se usa cuando tenemos que tomar distintos caminos dependiendo lo que queremos hacer.
+ * Valores booleanos (`true`, `false`)
+    son datos que pueden ser de 2 tipos - True (positivo), false (negativo).
